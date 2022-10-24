@@ -1,0 +1,9 @@
+C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\bin\Debug\Data.dll
+C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\bin\Debug\Data.pdb
+C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\bin\Debug\Dapper.dll
+C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\bin\Debug\Dapper.xml
+C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\obj\Debug\Data.dll
+C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\obj\Debug\Data.pdb

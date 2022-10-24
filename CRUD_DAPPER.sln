@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{44F14532-D3EF-45E6-B4B3-72D776FD1E27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios", "Formularios\Formularios.csproj", "{B2F8FAAE-CB5F-4DC9-93BD-19AED4D88E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{D89559BF-19D6-430D-8839-B9BC1D4FB7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44F14532-D3EF-45E6-B4B3-72D776FD1E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F14532-D3EF-45E6-B4B3-72D776FD1E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F14532-D3EF-45E6-B4B3-72D776FD1E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F14532-D3EF-45E6-B4B3-72D776FD1E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F8FAAE-CB5F-4DC9-93BD-19AED4D88E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F8FAAE-CB5F-4DC9-93BD-19AED4D88E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F8FAAE-CB5F-4DC9-93BD-19AED4D88E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F8FAAE-CB5F-4DC9-93BD-19AED4D88E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89559BF-19D6-430D-8839-B9BC1D4FB7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89559BF-19D6-430D-8839-B9BC1D4FB7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89559BF-19D6-430D-8839-B9BC1D4FB7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89559BF-19D6-430D-8839-B9BC1D4FB7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5C3B6F3-2C29-475F-B59E-106752830854}
+	EndGlobalSection
+EndGlobal
