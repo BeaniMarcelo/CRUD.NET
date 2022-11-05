@@ -7,3 +7,12 @@ C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\obj\Debug\Data.csp
 C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\obj\Debug\Data.csproj.CopyComplete
 C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\obj\Debug\Data.dll
 C:\Users\marce\Documents\REPOSITORIOS ESTUDO\CRUD_DAPPER\Data\obj\Debug\Data.pdb
+C:\Users\c052108\Source\Repos\CRUD.NET\Data\bin\Debug\Data.dll
+C:\Users\c052108\Source\Repos\CRUD.NET\Data\bin\Debug\Data.pdb
+C:\Users\c052108\Source\Repos\CRUD.NET\Data\bin\Debug\Dapper.dll
+C:\Users\c052108\Source\Repos\CRUD.NET\Data\bin\Debug\Dapper.xml
+C:\Users\c052108\Source\Repos\CRUD.NET\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\c052108\Source\Repos\CRUD.NET\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\c052108\Source\Repos\CRUD.NET\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\c052108\Source\Repos\CRUD.NET\Data\obj\Debug\Data.dll
+C:\Users\c052108\Source\Repos\CRUD.NET\Data\obj\Debug\Data.pdb
